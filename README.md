@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-m-33248b106/)
 
-![Patricia GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-helen&show_icons=true&theme=radical)
+![Patricia GitHub stats](https://github-readme-stats.vercel.app/api?username=devhelen&show_icons=true&theme=radical)
 
 ### Tecnologia que eu uso no meu dia
 <div style="display: inline_block"><br/>
