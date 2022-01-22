@@ -5,6 +5,8 @@
 
 ![Patricia GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-helen&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/patricia-helen/github-readme-stats)
+
 ### Tecnologia que eu uso no meu dia
 <div style="display: inline_block"><br/>
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
