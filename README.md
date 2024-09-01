@@ -1,4 +1,3 @@
-### Olá, Eu sou a Patricia Helen 😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-m-33248b106/)
 
